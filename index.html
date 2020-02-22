@@ -11,14 +11,17 @@
 
 </head>
     <body>
-
         <div class="nav-bar"></div>
-
         <div id="app">
-            {{ message }}
+            <div class="product">                
+                <div class="product-image">
+                    <img :src="image" alt="product-image">
+                </div>
+                <div class="product-info">
+                    <h2> {{ product }} </h2>
+                </div>
+            </div>
         </div>
-        
-        
         <script src="./main.js"> </script>
     </body>
 </html>

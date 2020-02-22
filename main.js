@@ -1,6 +1,7 @@
 var app = new Vue({
     el: '#app',
     data: {
-        message : "Hello vue .... !"
+        product : "product",
+        image: '/assets/images/vmSocks-green-onWhite.jpg'
     }
 })
