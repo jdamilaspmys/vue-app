@@ -1,0 +1,23 @@
+{
+  "name": "vue-app",
+  "version": "1.0.0",
+  "description": "vue application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdamilaspmys/vue-app.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Amila Sampath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdamilaspmys/vue-app/issues"
+  },
+  "homepage": "https://github.com/jdamilaspmys/vue-app#readme",
+  "dependencies": {}
+}
